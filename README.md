@@ -1,4 +1,4 @@
-# master-json
+# masterreference-json
 A repository containing a JSON file of the Japanese Grammar Master Reference, and the script used to create it.
 ## Master Reference
 https://djtguide.github.io/grammar/masterreference.html
